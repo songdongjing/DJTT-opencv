@@ -2,7 +2,9 @@
 
 ## 硬件
 硬件采用DJTT无人机
+
 ![大疆TT无人机渲染图](http://typora-sdj.oss-cn-chengdu.aliyuncs.com/README-2024-06-27-09-06-40.png)
+
 DJTT无人机由无人机控制器和拓展模块组成，其中无人机控制器内置电路已经完成了所有关于无人机操作的集成，只需要通过给无人机发送指令即可让其运动。
 ![控制器和拓展模块](http://typora-sdj.oss-cn-chengdu.aliyuncs.com/README-2024-06-27-09-08-18.png)
 无人机硬件相关信息可参考DJ官网：[大疆无人机官网](https://robomaster-dev.readthedocs.io/zh-cn/latest/python_sdk/installs.html)
